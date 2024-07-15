@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "autoload": {
         "psr-4": {
-            "Itszun\\PhpImporter\\": "src/"
+            "Itszun\\Importer\\": "src/"
         }
     },
     "authors": [
