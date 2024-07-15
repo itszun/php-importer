@@ -1,0 +1,23 @@
+{
+    "name": "itszun/php-importer",
+    "description": "Minimal service for handling excel import",
+    "type": "library",
+    "license": "GPL-3.0-only",
+    "autoload": {
+        "psr-4": {
+            "Itszun\\PhpImporter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zun",
+            "email": "malikal.j4@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "nesbot/carbon": "^3.6",
+        "laravel/prompts": "^0.1.24",
+        "phpoffice/phpspreadsheet": "^2.1"
+    }
+}
