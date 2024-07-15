@@ -19,6 +19,6 @@
     "require": {
         "nesbot/carbon": "^2.72.5",
         "laravel/prompts": "^0.1.24",
-        "phpoffice/phpspreadsheet": "^2.1"
+        "phpoffice/phpspreadsheet": "^1.29"
     }
 }
